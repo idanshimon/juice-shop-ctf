@@ -71,7 +71,7 @@
     "request-promise": "^4.2.6",
     "turndown": "^7.1.2",
     "xmlbuilder": "^15.1.1",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "ava": "^5.3.1",
